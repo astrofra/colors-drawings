@@ -1,0 +1,35 @@
+{
+  "allowRemix": false,
+  "brushes": "",
+  "canBeProfile": true,
+  "canSuperLike": false,
+  "comments": [
+    {
+      "id": 5463,
+      "userId": 731,
+      "userName": "Splotch",
+      "text": "This is a great idea and I think you met the mood of the painting.",
+      "dateAddedU": 1201014977
+    }
+  ],
+  "dateAddedU": 1196010805,
+  "description": "Copy of a small painting from a provincial fine art museum. I was standing in front of the painting.",
+  "duration": "0:00",
+  "id": 1643,
+  "isDeleted": false,
+  "isLiked": false,
+  "isNsfw": false,
+  "isOwner": false,
+  "isPrivate": false,
+  "medals": [],
+  "numComments": 1,
+  "numLikes": 4,
+  "numRemixes": 0,
+  "strokes": 0,
+  "system": 0,
+  "title": "At the museum... (1)",
+  "usage": 0,
+  "userId": 466,
+  "username": "fra",
+  "version": 1002
+}

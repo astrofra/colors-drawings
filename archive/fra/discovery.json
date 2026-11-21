@@ -1,0 +1,557 @@
+{
+  "init": {
+    "id": 1,
+    "ok": true,
+    "data": {
+      "crash_timeout": 90,
+      "dev_users": [
+        "Jens",
+        "jaames",
+        "Johannes",
+        "brians",
+        "Twarda",
+        "Orangelemon89"
+      ],
+      "minimum_age": 15,
+      "new_hosting_min_challenge_pid": 66504,
+      "new_hosting_min_pid": 5930960,
+      "news": "<font color=666699><h3><time>1795220976</time></h3></font>Contest: Partners in Crime!\n<font color=666699><h3><time>1794012183</time></h3></font>Contest: Nostalgia!\n<font color=666699><h3><time>1793497388</time></h3></font>Contest: Fairy tale!\n",
+      "seasonal_quest": "halloween",
+      "server_dev_version": 1275,
+      "servertime": 1795286199,
+      "user_status": {
+        "logged_in": false,
+        "username": "",
+        "user_id": 0,
+        "email": "",
+        "email_activated": false,
+        "has_device": false,
+        "moderator": false,
+        "tester": false,
+        "admin": false,
+        "patron": false,
+        "superlikes": 0
+      }
+    }
+  },
+  "artist": {
+    "id": 2,
+    "ok": true,
+    "max_age": 537,
+    "data": {
+      "badges": "",
+      "desc": "640 polys.\n\nwww.astrofra.com",
+      "following": false,
+      "num_followers": 2,
+      "num_following": 0,
+      "num_liked": 36,
+      "own_profile": false,
+      "paintings": [
+        {
+          "pid": 18774,
+          "l": 1,
+          "a": 73
+        },
+        {
+          "pid": 1685,
+          "l": 1
+        },
+        {
+          "pid": 1672,
+          "l": 1
+        },
+        {
+          "pid": 1664,
+          "l": 1
+        },
+        {
+          "pid": 1646,
+          "l": 1
+        },
+        {
+          "pid": 1645,
+          "l": 1
+        },
+        {
+          "pid": 1644,
+          "l": 1
+        },
+        {
+          "pid": 1643,
+          "l": 1
+        },
+        {
+          "pid": 1640,
+          "l": 1
+        },
+        {
+          "pid": 1635,
+          "l": 1
+        },
+        {
+          "pid": 1633,
+          "l": 1
+        }
+      ],
+      "profile_painting": 18774,
+      "uid": 466,
+      "username": "fra"
+    }
+  },
+  "paintings": [
+    {
+      "response": {
+        "id": 3,
+        "ok": true,
+        "max_age": 60,
+        "data": {
+          "allowRemix": false,
+          "brushes": "",
+          "canBeProfile": true,
+          "canSuperLike": false,
+          "comments": [],
+          "dateAddedU": 1242040520,
+          "description": "First attempt with the iPhone version of Colors...",
+          "duration": "0:00",
+          "id": 18774,
+          "isDeleted": false,
+          "isLiked": false,
+          "isNsfw": false,
+          "isOwner": false,
+          "isPrivate": false,
+          "medals": [],
+          "numComments": 0,
+          "numLikes": 26,
+          "numRemixes": 0,
+          "strokes": 0,
+          "system": 3,
+          "title": "Mars",
+          "usage": 0,
+          "userId": 466,
+          "username": "fra",
+          "version": 1071
+        }
+      },
+      "filename": "18774-XiWlpsIoWJko0j5B"
+    },
+    {
+      "response": {
+        "id": 4,
+        "ok": true,
+        "max_age": 60,
+        "data": {
+          "allowRemix": false,
+          "brushes": "",
+          "canBeProfile": true,
+          "canSuperLike": false,
+          "comments": [
+            {
+              "id": 1107,
+              "userId": 411,
+              "userName": "seb",
+              "text": "RATP FTW ?",
+              "dateAddedU": 1196192045
+            }
+          ],
+          "dateAddedU": 1196154411,
+          "description": "'took the bus this morning, did a small doodle ...",
+          "duration": "0:00",
+          "id": 1685,
+          "isDeleted": false,
+          "isLiked": false,
+          "isNsfw": false,
+          "isOwner": false,
+          "isPrivate": false,
+          "medals": [],
+          "numComments": 1,
+          "numLikes": 3,
+          "numRemixes": 0,
+          "strokes": 0,
+          "system": 0,
+          "title": "by bus...",
+          "usage": 0,
+          "userId": 466,
+          "username": "fra",
+          "version": 1002
+        }
+      },
+      "filename": "1685-vgkr9F5II3G8w5CU"
+    },
+    {
+      "response": {
+        "id": 5,
+        "ok": true,
+        "max_age": 60,
+        "data": {
+          "allowRemix": false,
+          "brushes": "",
+          "canBeProfile": true,
+          "canSuperLike": false,
+          "comments": [],
+          "dateAddedU": 1196090833,
+          "description": "at home...",
+          "duration": "0:00",
+          "id": 1672,
+          "isDeleted": false,
+          "isLiked": false,
+          "isNsfw": false,
+          "isOwner": false,
+          "isPrivate": false,
+          "medals": [],
+          "numComments": 0,
+          "numLikes": 1,
+          "numRemixes": 0,
+          "strokes": 0,
+          "system": 0,
+          "title": "chémoi",
+          "usage": 0,
+          "userId": 466,
+          "username": "fra",
+          "version": 1002
+        }
+      },
+      "filename": "1672-P9Cv7PuWwrziYgM2"
+    },
+    {
+      "response": {
+        "id": 6,
+        "ok": true,
+        "max_age": 60,
+        "data": {
+          "allowRemix": false,
+          "brushes": "",
+          "canBeProfile": true,
+          "canSuperLike": false,
+          "comments": [],
+          "dateAddedU": 1196062478,
+          "description": "(speed painting for breakfeast)",
+          "duration": "0:00",
+          "id": 1664,
+          "isDeleted": false,
+          "isLiked": false,
+          "isNsfw": false,
+          "isOwner": false,
+          "isPrivate": false,
+          "medals": [],
+          "numComments": 0,
+          "numLikes": 2,
+          "numRemixes": 0,
+          "strokes": 0,
+          "system": 0,
+          "title": "Morning in the kitchen",
+          "usage": 0,
+          "userId": 466,
+          "username": "fra",
+          "version": 1002
+        }
+      },
+      "filename": "1664-tZr-xs8ILdy6rcdY"
+    },
+    {
+      "response": {
+        "id": 7,
+        "ok": true,
+        "max_age": 60,
+        "data": {
+          "allowRemix": false,
+          "brushes": "",
+          "canBeProfile": true,
+          "canSuperLike": false,
+          "comments": [
+            {
+              "id": 405676,
+              "userId": 52029,
+              "userName": "Showen",
+              "text": "So awesome, colors & the reflects. Deserve more likes !",
+              "dateAddedU": 1338401112
+            },
+            {
+              "id": 26909321,
+              "userId": 356750,
+              "userName": "Foury",
+              "text": "@reefers sure i dont mind ^^",
+              "dateAddedU": 1722363581
+            },
+            {
+              "id": 26909323,
+              "userId": 356750,
+              "userName": "Foury",
+              "text": "@reefers you can do wtv u want w it :D",
+              "dateAddedU": 1722363591
+            },
+            {
+              "id": 26909341,
+              "userId": 356750,
+              "userName": "Foury",
+              "text": "@reefers yw!",
+              "dateAddedU": 1722363698
+            }
+          ],
+          "dateAddedU": 1196011130,
+          "description": "Copy of a painting from a provincial fine art museum. I sat down in front of the painting.",
+          "duration": "0:00",
+          "id": 1646,
+          "isDeleted": false,
+          "isLiked": false,
+          "isNsfw": false,
+          "isOwner": false,
+          "isPrivate": false,
+          "medals": [],
+          "numComments": 4,
+          "numLikes": 8,
+          "numRemixes": 0,
+          "strokes": 0,
+          "system": 0,
+          "title": "At the museum... (4)",
+          "usage": 0,
+          "userId": 466,
+          "username": "fra",
+          "version": 1002
+        }
+      },
+      "filename": "1646-Ce7ZBZaqTWr4AaWW"
+    },
+    {
+      "response": {
+        "id": 8,
+        "ok": true,
+        "max_age": 60,
+        "data": {
+          "allowRemix": false,
+          "brushes": "",
+          "canBeProfile": true,
+          "canSuperLike": false,
+          "comments": [],
+          "dateAddedU": 1196011062,
+          "description": "Copy of a painting from a provincial fine art museum. I sat down in front of the painting.",
+          "duration": "0:00",
+          "id": 1645,
+          "isDeleted": false,
+          "isLiked": false,
+          "isNsfw": false,
+          "isOwner": false,
+          "isPrivate": false,
+          "medals": [],
+          "numComments": 0,
+          "numLikes": 5,
+          "numRemixes": 0,
+          "strokes": 0,
+          "system": 0,
+          "title": "At the museum... (3)",
+          "usage": 0,
+          "userId": 466,
+          "username": "fra",
+          "version": 1002
+        }
+      },
+      "filename": "1645-8XboOLIf5tOmZC-F"
+    },
+    {
+      "response": {
+        "id": 9,
+        "ok": true,
+        "max_age": 60,
+        "data": {
+          "allowRemix": false,
+          "brushes": "",
+          "canBeProfile": true,
+          "canSuperLike": false,
+          "comments": [],
+          "dateAddedU": 1196010904,
+          "description": "Copy of a small painting from a provincial fine art museum. I was standing in front of the painting.",
+          "duration": "0:00",
+          "id": 1644,
+          "isDeleted": false,
+          "isLiked": false,
+          "isNsfw": false,
+          "isOwner": false,
+          "isPrivate": false,
+          "medals": [],
+          "numComments": 0,
+          "numLikes": 1,
+          "numRemixes": 0,
+          "strokes": 0,
+          "system": 0,
+          "title": "At the museum... (2)",
+          "usage": 0,
+          "userId": 466,
+          "username": "fra",
+          "version": 1002
+        }
+      },
+      "filename": "1644-r0lQuolynsVt3naJ"
+    },
+    {
+      "response": {
+        "id": 10,
+        "ok": true,
+        "max_age": 60,
+        "data": {
+          "allowRemix": false,
+          "brushes": "",
+          "canBeProfile": true,
+          "canSuperLike": false,
+          "comments": [
+            {
+              "id": 5463,
+              "userId": 731,
+              "userName": "Splotch",
+              "text": "This is a great idea and I think you met the mood of the painting.",
+              "dateAddedU": 1201014977
+            }
+          ],
+          "dateAddedU": 1196010805,
+          "description": "Copy of a small painting from a provincial fine art museum. I was standing in front of the painting.",
+          "duration": "0:00",
+          "id": 1643,
+          "isDeleted": false,
+          "isLiked": false,
+          "isNsfw": false,
+          "isOwner": false,
+          "isPrivate": false,
+          "medals": [],
+          "numComments": 1,
+          "numLikes": 4,
+          "numRemixes": 0,
+          "strokes": 0,
+          "system": 0,
+          "title": "At the museum... (1)",
+          "usage": 0,
+          "userId": 466,
+          "username": "fra",
+          "version": 1002
+        }
+      },
+      "filename": "1643-910zCGxrD6GvFWm5"
+    },
+    {
+      "response": {
+        "id": 11,
+        "ok": true,
+        "max_age": 60,
+        "data": {
+          "allowRemix": false,
+          "brushes": "",
+          "canBeProfile": true,
+          "canSuperLike": false,
+          "comments": [
+            {
+              "id": 1063,
+              "userId": 5,
+              "userName": "jetboy",
+              "text": "Welcome to the gallery!",
+              "dateAddedU": 1195981093
+            },
+            {
+              "id": 1069,
+              "userId": 466,
+              "userName": "fra",
+              "text": "Hey thx Jetboy. I need more practice, my drawings kind a suckey, so far :)",
+              "dateAddedU": 1196000185
+            },
+            {
+              "id": 1070,
+              "userId": 466,
+              "userName": "fra",
+              "text": "Ahah, looking at it more & more, it looks more & more like a bad painting, ouch x__X;",
+              "dateAddedU": 1196000513
+            }
+          ],
+          "dateAddedU": 1195979964,
+          "description": "Research for an end level boss",
+          "duration": "0:00",
+          "id": 1640,
+          "isDeleted": false,
+          "isLiked": false,
+          "isNsfw": false,
+          "isOwner": false,
+          "isPrivate": false,
+          "medals": [],
+          "numComments": 3,
+          "numLikes": 1,
+          "numRemixes": 0,
+          "strokes": 0,
+          "system": 0,
+          "title": "The Main Brain (3)",
+          "usage": 0,
+          "userId": 466,
+          "username": "fra",
+          "version": 1002
+        }
+      },
+      "filename": "1640-1ZvCJyTIizBaQB9_"
+    },
+    {
+      "response": {
+        "id": 12,
+        "ok": true,
+        "max_age": 60,
+        "data": {
+          "allowRemix": false,
+          "brushes": "",
+          "canBeProfile": true,
+          "canSuperLike": false,
+          "comments": [],
+          "dateAddedU": 1195951395,
+          "description": "Concept for an end level boss (2)",
+          "duration": "0:00",
+          "id": 1635,
+          "isDeleted": false,
+          "isLiked": false,
+          "isNsfw": false,
+          "isOwner": false,
+          "isPrivate": false,
+          "medals": [],
+          "numComments": 0,
+          "numLikes": 5,
+          "numRemixes": 0,
+          "strokes": 0,
+          "system": 0,
+          "title": "The Main Brain (2)",
+          "usage": 0,
+          "userId": 466,
+          "username": "fra",
+          "version": 1002
+        }
+      },
+      "filename": "1635-iFO_Dz_2hcbBiSMu"
+    },
+    {
+      "response": {
+        "id": 13,
+        "ok": true,
+        "max_age": 60,
+        "data": {
+          "allowRemix": false,
+          "brushes": "",
+          "canBeProfile": true,
+          "canSuperLike": false,
+          "comments": [],
+          "dateAddedU": 1195922139,
+          "description": "Concept for an end level boss.",
+          "duration": "0:00",
+          "id": 1633,
+          "isDeleted": false,
+          "isLiked": false,
+          "isNsfw": false,
+          "isOwner": false,
+          "isPrivate": false,
+          "medals": [],
+          "numComments": 0,
+          "numLikes": 4,
+          "numRemixes": 0,
+          "strokes": 0,
+          "system": 0,
+          "title": "The Main Brain",
+          "usage": 0,
+          "userId": 466,
+          "username": "fra",
+          "version": 1002
+        }
+      },
+      "filename": "1633-0jc9WkcGsl06ItJu"
+    }
+  ],
+  "source": "https://www.colorslive.com/artist/fra",
+  "retrieved_at": "2026-11-21T18:36:41.177161+00:00"
+}

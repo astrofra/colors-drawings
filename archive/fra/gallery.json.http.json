@@ -1,0 +1,15 @@
+{
+  "url": "https://www.colorslive.com/_1231/artist/fra",
+  "final_url": "https://www.colorslive.com/_1231/artist/fra",
+  "retrieved_at": "2026-11-21T18:36:41.654498+00:00",
+  "status": 200,
+  "headers": {
+    "Date": "Sat, 21 Nov 2026 18:36:41 GMT",
+    "Content-Type": "application/json; charset=UTF-8",
+    "Content-Length": "2023",
+    "Connection": "close",
+    "Server": "nginx",
+    "Cache-Control": "max-age=3600",
+    "X-Backend": "webapp"
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "method": "RGB mean absolute error and RMSE; rendered PNG resized to reference with Pillow Lanczos; no registration or color correction",
+  "metrics": [
+    {
+      "id": 18774,
+      "title": "Mars",
+      "mae_rgb_0_255": 5.103371212121212,
+      "rmse_rgb_0_255": 11.732915731097291,
+      "reference_size": [
+        320,
+        440
+      ],
+      "render_size": [
+        512,
+        704
+      ]
+    },
+    {
+      "id": 1685,
+      "title": "by bus...",
+      "mae_rgb_0_255": 4.502305772569444,
+      "rmse_rgb_0_255": 7.491712950951412,
+      "reference_size": [
+        512,
+        384
+      ],
+      "render_size": [
+        512,
+        384
+      ]
+    },
+    {
+      "id": 1672,
+      "title": "chémoi",
+      "mae_rgb_0_255": 2.776365492078993,
+      "rmse_rgb_0_255": 8.950855818972595,
+      "reference_size": [
+        512,
+        384
+      ],
+      "render_size": [
+        512,
+        384
+      ]
+    },
+    {
+      "id": 1664,
+      "title": "Morning in the kitchen",
+      "mae_rgb_0_255": 1.6815965440538194,
+      "rmse_rgb_0_255": 4.687132147024647,
+      "reference_size": [
+        512,
+        384
+      ],
+      "render_size": [
+        512,
+        384
+      ]
+    },
+    {
+      "id": 1646,
+      "title": "At the museum... (4)",
+      "mae_rgb_0_255": 2.330837673611111,
+      "rmse_rgb_0_255": 6.132263444105828,
+      "reference_size": [
+        512,
+        384
+      ],
+      "render_size": [
+        512,
+        384
+      ]
+    },
+    {
+      "id": 1645,
+      "title": "At the museum... (3)",
+      "mae_rgb_0_255": 3.3167622884114585,
+      "rmse_rgb_0_255": 8.361761609271486,
+      "reference_size": [
+        512,
+        384
+      ],
+      "render_size": [
+        512,
+        384
+      ]
+    },
+    {
+      "id": 1644,
+      "title": "At the museum... (2)",
+      "mae_rgb_0_255": 3.446195814344618,
+      "rmse_rgb_0_255": 9.220046015155937,
+      "reference_size": [
+        512,
+        384
+      ],
+      "render_size": [
+        512,
+        384
+      ]
+    },
+    {
+      "id": 1643,
+      "title": "At the museum... (1)",
+      "mae_rgb_0_255": 6.4267103407118045,
+      "rmse_rgb_0_255": 13.646731219465908,
+      "reference_size": [
+        512,
+        384
+      ],
+      "render_size": [
+        512,
+        384
+      ]
+    },
+    {
+      "id": 1640,
+      "title": "The Main Brain (3)",
+      "mae_rgb_0_255": 4.074298434787326,
+      "rmse_rgb_0_255": 9.175616986846237,
+      "reference_size": [
+        512,
+        384
+      ],
+      "render_size": [
+        512,
+        384
+      ]
+    },
+    {
+      "id": 1635,
+      "title": "The Main Brain (2)",
+      "mae_rgb_0_255": 3.777338663736979,
+      "rmse_rgb_0_255": 7.7739745635592,
+      "reference_size": [
+        512,
+        384
+      ],
+      "render_size": [
+        512,
+        384
+      ]
+    },
+    {
+      "id": 1633,
+      "title": "The Main Brain",
+      "mae_rgb_0_255": 4.647762722439237,
+      "rmse_rgb_0_255": 9.563726652612678,
+      "reference_size": [
+        512,
+        384
+      ],
+      "render_size": [
+        512,
+        384
+      ]
+    }
+  ]
+}

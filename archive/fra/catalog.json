@@ -1,0 +1,569 @@
+{
+  "schema_version": 1,
+  "artist": "fra",
+  "source": "https://www.colorslive.com/artist/fra",
+  "retrieved_at": "2026-11-21T18:36:41.177161+00:00",
+  "paintings": [
+    {
+      "id": 18774,
+      "title": "Mars",
+      "description": "First attempt with the iPhone version of Colors...",
+      "author": "fra",
+      "published_at": "2009-05-11T11:15:20+00:00",
+      "source": "https://www.colorslive.com/painting/18774",
+      "cdn_basename": "18774-XiWlpsIoWJko0j5B",
+      "rotation_clockwise_quarters": 3,
+      "image_size": [
+        320,
+        440
+      ],
+      "drw": {
+        "magic": "!loC",
+        "version": 1071,
+        "original_colors_version": 1071,
+        "last_colors_version": 1071,
+        "stroke_count": 782,
+        "drawing_seconds_raw": 0,
+        "save_count": 10,
+        "platform": 3,
+        "aspect_ratio_raw": 1.3333333730697632,
+        "header_bytes": 64,
+        "command_count": 19016,
+        "command_counts": {
+          "point": 18099,
+          "pen_up": 782,
+          "color": 61,
+          "brush": 74
+        },
+        "header_words_le": [
+          1131375649,
+          1071,
+          1071,
+          1071,
+          782,
+          0,
+          10,
+          3,
+          1068149419,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          19016
+        ]
+      }
+    },
+    {
+      "id": 1685,
+      "title": "by bus...",
+      "description": "'took the bus this morning, did a small doodle ...",
+      "author": "fra",
+      "published_at": "2007-11-27T09:06:51+00:00",
+      "source": "https://www.colorslive.com/painting/1685",
+      "cdn_basename": "1685-vgkr9F5II3G8w5CU",
+      "rotation_clockwise_quarters": 0,
+      "image_size": [
+        512,
+        384
+      ],
+      "drw": {
+        "magic": "!loC",
+        "version": 1002,
+        "original_colors_version": 1062,
+        "last_colors_version": 1062,
+        "stroke_count": 425,
+        "drawing_seconds_raw": 0,
+        "save_count": 2,
+        "platform": 0,
+        "aspect_ratio_raw": 0.0,
+        "header_bytes": 64,
+        "command_count": 23569,
+        "command_counts": {
+          "point": 23046,
+          "pen_up": 425,
+          "color": 56,
+          "brush": 42
+        },
+        "header_words_le": [
+          1131375649,
+          1002,
+          1062,
+          1062,
+          425,
+          0,
+          2,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          23569
+        ]
+      }
+    },
+    {
+      "id": 1672,
+      "title": "chémoi",
+      "description": "at home...",
+      "author": "fra",
+      "published_at": "2007-11-26T15:27:13+00:00",
+      "source": "https://www.colorslive.com/painting/1672",
+      "cdn_basename": "1672-P9Cv7PuWwrziYgM2",
+      "rotation_clockwise_quarters": 0,
+      "image_size": [
+        512,
+        384
+      ],
+      "drw": {
+        "magic": "!loC",
+        "version": 1002,
+        "original_colors_version": 1062,
+        "last_colors_version": 1062,
+        "stroke_count": 221,
+        "drawing_seconds_raw": 0,
+        "save_count": 2,
+        "platform": 0,
+        "aspect_ratio_raw": 0.0,
+        "header_bytes": 64,
+        "command_count": 28986,
+        "command_counts": {
+          "point": 28674,
+          "pen_up": 221,
+          "color": 78,
+          "brush": 13
+        },
+        "header_words_le": [
+          1131375649,
+          1002,
+          1062,
+          1062,
+          221,
+          0,
+          2,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          28986
+        ]
+      }
+    },
+    {
+      "id": 1664,
+      "title": "Morning in the kitchen",
+      "description": "(speed painting for breakfeast)",
+      "author": "fra",
+      "published_at": "2007-11-26T07:34:38+00:00",
+      "source": "https://www.colorslive.com/painting/1664",
+      "cdn_basename": "1664-tZr-xs8ILdy6rcdY",
+      "rotation_clockwise_quarters": 0,
+      "image_size": [
+        512,
+        384
+      ],
+      "drw": {
+        "magic": "!loC",
+        "version": 1002,
+        "original_colors_version": 1062,
+        "last_colors_version": 1062,
+        "stroke_count": 200,
+        "drawing_seconds_raw": 0,
+        "save_count": 1,
+        "platform": 0,
+        "aspect_ratio_raw": 0.0,
+        "header_bytes": 64,
+        "command_count": 13380,
+        "command_counts": {
+          "point": 13135,
+          "pen_up": 200,
+          "color": 37,
+          "brush": 8
+        },
+        "header_words_le": [
+          1131375649,
+          1002,
+          1062,
+          1062,
+          200,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          13380
+        ]
+      }
+    },
+    {
+      "id": 1646,
+      "title": "At the museum... (4)",
+      "description": "Copy of a painting from a provincial fine art museum. I sat down in front of the painting.",
+      "author": "fra",
+      "published_at": "2007-11-25T17:18:50+00:00",
+      "source": "https://www.colorslive.com/painting/1646",
+      "cdn_basename": "1646-Ce7ZBZaqTWr4AaWW",
+      "rotation_clockwise_quarters": 0,
+      "image_size": [
+        512,
+        384
+      ],
+      "drw": {
+        "magic": "!loC",
+        "version": 1002,
+        "original_colors_version": 1062,
+        "last_colors_version": 1062,
+        "stroke_count": 868,
+        "drawing_seconds_raw": 0,
+        "save_count": 2,
+        "platform": 0,
+        "aspect_ratio_raw": 0.0,
+        "header_bytes": 64,
+        "command_count": 22350,
+        "command_counts": {
+          "point": 21354,
+          "pen_up": 868,
+          "color": 91,
+          "brush": 37
+        },
+        "header_words_le": [
+          1131375649,
+          1002,
+          1062,
+          1062,
+          868,
+          0,
+          2,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          22350
+        ]
+      }
+    },
+    {
+      "id": 1645,
+      "title": "At the museum... (3)",
+      "description": "Copy of a painting from a provincial fine art museum. I sat down in front of the painting.",
+      "author": "fra",
+      "published_at": "2007-11-25T17:17:42+00:00",
+      "source": "https://www.colorslive.com/painting/1645",
+      "cdn_basename": "1645-8XboOLIf5tOmZC-F",
+      "rotation_clockwise_quarters": 0,
+      "image_size": [
+        512,
+        384
+      ],
+      "drw": {
+        "magic": "!loC",
+        "version": 1002,
+        "original_colors_version": 1062,
+        "last_colors_version": 1062,
+        "stroke_count": 781,
+        "drawing_seconds_raw": 0,
+        "save_count": 2,
+        "platform": 0,
+        "aspect_ratio_raw": 0.0,
+        "header_bytes": 64,
+        "command_count": 21088,
+        "command_counts": {
+          "point": 20189,
+          "pen_up": 781,
+          "color": 81,
+          "brush": 37
+        },
+        "header_words_le": [
+          1131375649,
+          1002,
+          1062,
+          1062,
+          781,
+          0,
+          2,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          21088
+        ]
+      }
+    },
+    {
+      "id": 1644,
+      "title": "At the museum... (2)",
+      "description": "Copy of a small painting from a provincial fine art museum. I was standing in front of the painting.",
+      "author": "fra",
+      "published_at": "2007-11-25T17:15:04+00:00",
+      "source": "https://www.colorslive.com/painting/1644",
+      "cdn_basename": "1644-r0lQuolynsVt3naJ",
+      "rotation_clockwise_quarters": 0,
+      "image_size": [
+        512,
+        384
+      ],
+      "drw": {
+        "magic": "!loC",
+        "version": 1002,
+        "original_colors_version": 1062,
+        "last_colors_version": 1062,
+        "stroke_count": 983,
+        "drawing_seconds_raw": 0,
+        "save_count": 2,
+        "platform": 0,
+        "aspect_ratio_raw": 0.0,
+        "header_bytes": 64,
+        "command_count": 21919,
+        "command_counts": {
+          "point": 20835,
+          "pen_up": 983,
+          "color": 77,
+          "brush": 24
+        },
+        "header_words_le": [
+          1131375649,
+          1002,
+          1062,
+          1062,
+          983,
+          0,
+          2,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          21919
+        ]
+      }
+    },
+    {
+      "id": 1643,
+      "title": "At the museum... (1)",
+      "description": "Copy of a small painting from a provincial fine art museum. I was standing in front of the painting.",
+      "author": "fra",
+      "published_at": "2007-11-25T17:13:25+00:00",
+      "source": "https://www.colorslive.com/painting/1643",
+      "cdn_basename": "1643-910zCGxrD6GvFWm5",
+      "rotation_clockwise_quarters": 0,
+      "image_size": [
+        512,
+        384
+      ],
+      "drw": {
+        "magic": "!loC",
+        "version": 1002,
+        "original_colors_version": 1062,
+        "last_colors_version": 1062,
+        "stroke_count": 1312,
+        "drawing_seconds_raw": 0,
+        "save_count": 3,
+        "platform": 0,
+        "aspect_ratio_raw": 0.0,
+        "header_bytes": 64,
+        "command_count": 21111,
+        "command_counts": {
+          "point": 19679,
+          "pen_up": 1312,
+          "color": 84,
+          "brush": 36
+        },
+        "header_words_le": [
+          1131375649,
+          1002,
+          1062,
+          1062,
+          1312,
+          0,
+          3,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          21111
+        ]
+      }
+    },
+    {
+      "id": 1640,
+      "title": "The Main Brain (3)",
+      "description": "Research for an end level boss",
+      "author": "fra",
+      "published_at": "2007-11-25T08:39:24+00:00",
+      "source": "https://www.colorslive.com/painting/1640",
+      "cdn_basename": "1640-1ZvCJyTIizBaQB9_",
+      "rotation_clockwise_quarters": 0,
+      "image_size": [
+        512,
+        384
+      ],
+      "drw": {
+        "magic": "!loC",
+        "version": 1002,
+        "original_colors_version": 1062,
+        "last_colors_version": 1062,
+        "stroke_count": 2018,
+        "drawing_seconds_raw": 0,
+        "save_count": 5,
+        "platform": 0,
+        "aspect_ratio_raw": 0.0,
+        "header_bytes": 64,
+        "command_count": 62354,
+        "command_counts": {
+          "point": 60083,
+          "pen_up": 2018,
+          "color": 190,
+          "brush": 63
+        },
+        "header_words_le": [
+          1131375649,
+          1002,
+          1062,
+          1062,
+          2018,
+          0,
+          5,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          62354
+        ]
+      }
+    },
+    {
+      "id": 1635,
+      "title": "The Main Brain (2)",
+      "description": "Concept for an end level boss (2)",
+      "author": "fra",
+      "published_at": "2007-11-25T00:43:15+00:00",
+      "source": "https://www.colorslive.com/painting/1635",
+      "cdn_basename": "1635-iFO_Dz_2hcbBiSMu",
+      "rotation_clockwise_quarters": 0,
+      "image_size": [
+        512,
+        384
+      ],
+      "drw": {
+        "magic": "!loC",
+        "version": 1002,
+        "original_colors_version": 1062,
+        "last_colors_version": 1062,
+        "stroke_count": 796,
+        "drawing_seconds_raw": 0,
+        "save_count": 8,
+        "platform": 0,
+        "aspect_ratio_raw": 0.0,
+        "header_bytes": 64,
+        "command_count": 32297,
+        "command_counts": {
+          "point": 31354,
+          "pen_up": 796,
+          "color": 100,
+          "brush": 47
+        },
+        "header_words_le": [
+          1131375649,
+          1002,
+          1062,
+          1062,
+          796,
+          0,
+          8,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          32297
+        ]
+      }
+    },
+    {
+      "id": 1633,
+      "title": "The Main Brain",
+      "description": "Concept for an end level boss.",
+      "author": "fra",
+      "published_at": "2007-11-24T16:35:39+00:00",
+      "source": "https://www.colorslive.com/painting/1633",
+      "cdn_basename": "1633-0jc9WkcGsl06ItJu",
+      "rotation_clockwise_quarters": 0,
+      "image_size": [
+        512,
+        384
+      ],
+      "drw": {
+        "magic": "!loC",
+        "version": 1002,
+        "original_colors_version": 1062,
+        "last_colors_version": 1062,
+        "stroke_count": 657,
+        "drawing_seconds_raw": 0,
+        "save_count": 3,
+        "platform": 0,
+        "aspect_ratio_raw": 0.0,
+        "header_bytes": 64,
+        "command_count": 20970,
+        "command_counts": {
+          "point": 20254,
+          "pen_up": 657,
+          "color": 28,
+          "brush": 31
+        },
+        "header_words_le": [
+          1131375649,
+          1002,
+          1062,
+          1062,
+          657,
+          0,
+          3,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          20970
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://cdn.colorslive.com/jpg_1280x720/1646-Ce7ZBZaqTWr4AaWW.jpg",
+  "retrieved_at": "2026-11-21T18:31:15Z",
+  "headers": {
+    "Content-Type": "image/jpeg",
+    "Content-Length": "123300",
+    "Connection": "close",
+    "Strict-Transport-Security": "max-age=63072000",
+    "x-bz-file-name": "jpg_1280x720/1646-Ce7ZBZaqTWr4AaWW.jpg",
+    "x-bz-file-id": "4_zcafc779fc19988e19cc50e18_f1055b6671b908bab_d20261102_m084423_c005_v0501014_t0022_u01793609063985",
+    "x-bz-content-sha1": "c05dcb993a866014cd466fc16692bbc0edd801b1",
+    "X-Bz-Upload-Timestamp": "1793609063985",
+    "Accept-Ranges": "bytes",
+    "Cache-Control": "max-age=2592000",
+    "x-bz-info-btime": "2024-07-30T18:18:03Z",
+    "x-bz-info-mtime": "1722363483",
+    "X-Bz-Server-Side-Encryption": "AES256",
+    "Date": "Sat, 21 Nov 2026 18:31:15 GMT",
+    "X-Cache": "Miss from cloudfront",
+    "Via": "1.1 d9d04e236953586432ec9a58f20c1ff6.cloudfront.net (CloudFront)",
+    "X-Amz-Cf-Pop": "CDG50-P6",
+    "Alt-Svc": "h3=\":443\"; ma=86400",
+    "X-Amz-Cf-Id": "IrXcb1Bqp-DD4rLhGomuzySf4hEojfS7bv5zCkRzAPOWDm1WyBUvnw==",
+    "Cross-Origin-Resource-Policy": "cross-origin",
+    "Vary": "Origin"
+  }
+}

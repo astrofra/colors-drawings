@@ -1,0 +1,49 @@
+{
+  "allowRemix": false,
+  "brushes": "",
+  "canBeProfile": true,
+  "canSuperLike": false,
+  "comments": [
+    {
+      "id": 1063,
+      "userId": 5,
+      "userName": "jetboy",
+      "text": "Welcome to the gallery!",
+      "dateAddedU": 1195981093
+    },
+    {
+      "id": 1069,
+      "userId": 466,
+      "userName": "fra",
+      "text": "Hey thx Jetboy. I need more practice, my drawings kind a suckey, so far :)",
+      "dateAddedU": 1196000185
+    },
+    {
+      "id": 1070,
+      "userId": 466,
+      "userName": "fra",
+      "text": "Ahah, looking at it more & more, it looks more & more like a bad painting, ouch x__X;",
+      "dateAddedU": 1196000513
+    }
+  ],
+  "dateAddedU": 1195979964,
+  "description": "Research for an end level boss",
+  "duration": "0:00",
+  "id": 1640,
+  "isDeleted": false,
+  "isLiked": false,
+  "isNsfw": false,
+  "isOwner": false,
+  "isPrivate": false,
+  "medals": [],
+  "numComments": 3,
+  "numLikes": 1,
+  "numRemixes": 0,
+  "strokes": 0,
+  "system": 0,
+  "title": "The Main Brain (3)",
+  "usage": 0,
+  "userId": 466,
+  "username": "fra",
+  "version": 1002
+}

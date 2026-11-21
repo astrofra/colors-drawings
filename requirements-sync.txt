@@ -1,0 +1,2 @@
+# Only needed to discover/download the gallery; rendering and verification use the standard library.
+playwright==1.61.0
